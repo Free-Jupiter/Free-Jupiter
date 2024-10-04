@@ -1,0 +1,20 @@
+local
+part
+• script.Parent
+local
+debounce • true
+part. Touched: Connect(function(hit)
+local humanoid hit.Parent:FindFirstChildwhichIsA(Humanoid*)
+if humanoid and debounce
+true then
+debounce
+false
+wait (1)
+part.Transparency
+part.CanCollide
+false
+wait (1)
+part. Transparency • 0
+part. CanCollide • true debounce true
+end
+end)l
